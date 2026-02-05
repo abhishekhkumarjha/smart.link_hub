@@ -1,0 +1,8 @@
+
+{
+  "name": "SmartLink Hub",
+  "description": "An intelligent link aggregation platform that dynamically adapts content based on time, device, and location-based rules, featuring advanced analytics and a sleek black-and-green aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
